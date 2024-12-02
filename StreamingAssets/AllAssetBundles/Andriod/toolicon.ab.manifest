@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2463469223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cad17692f28deb1d1df6951bb13fcc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleRes/A_Textures/FolderPack/ToolIcon/Tool_02.png
+- Assets/AssetBundleRes/A_Textures/FolderPack/ToolIcon/Tool_03.png
+- Assets/AssetBundleRes/A_Textures/FolderPack/ToolIcon/Tool_04.png
+- Assets/AssetBundleRes/A_Textures/FolderPack/ToolIcon/Tool_01.png
+Dependencies: []
